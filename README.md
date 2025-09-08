@@ -27,11 +27,13 @@ Install (requires root):
 cmake --install build
 ```
 
+## Copyright Notices
+
 *NOTE:* Sadly the original license has the 'non-comercial' clause, making uemacs
 non-libre software. It would be cool to rewrite this whole program and license
 it with BSD.
 
-# Copyright Notices:
+---
 
 MicroEMACS 3.9 (c) Copyright 1987 Daniel M. Lawrence. Reference Manual Copyright
 1987 by Brian Straight and Daniel M. Lawrence. No copyright claimed for
