@@ -13,7 +13,7 @@
 #include "efunc.h"
 #include "line.h"
 
-int tabsize; /* Tab size (0: use real tabs) */
+int tabsize = 4; /* Tab size (0: use real tabs) */
 
 /*
  * Set fill column to n.
